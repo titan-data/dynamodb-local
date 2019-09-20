@@ -1,6 +1,7 @@
 # About this Project
 
-Describe the project for users.
+Simple wrapper around `amazon/dynamodb-local` that is configured for peristent
+storage.
 
 ## Contributing
 
